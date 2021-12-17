@@ -7,6 +7,6 @@ Game made with Unreal Engine 4(Blueprints)
 Designed and programed by myself.
 
 Concept Art and illustration by Lara Martuscelli Bruno 
-3D character design, modeling and animation by myself(Ariel Felipe Gomes Magalhães).
+3D character design and modeling by myself(Ariel Felipe Gomes Magalhães).
 
-Sounds not authoral yet. 
+the acctual .exe file show some mechanics, while video show some in action footage(not final result).
