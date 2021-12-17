@@ -1,0 +1,5 @@
+W A S D = Movement
+Shift = Run
+LMB = Shoot
+P = Pause Menu
+Q = open/close Build Menu
