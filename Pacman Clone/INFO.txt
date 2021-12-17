@@ -1,0 +1,2 @@
+Pacman clone made when I was learning how to use UE4 in 2020.
+Mini game created with third person template and all assets except for the maze are UE4 built in assets.
